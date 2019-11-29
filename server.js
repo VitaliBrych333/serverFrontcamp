@@ -1,10 +1,18 @@
 const express = require('express');
+const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const exphbs  = require('express-handlebars');
 const logger = require('./logger/logger');
 const router = require('./routers/router');
 const cors = require('cors');
+const passport = require('passport');
 const app = express();
+
+
+mongoose.connect(
+    'mongodb://admin:admin2019@ds043168.mlab.com:43168/frontcamp',
+    { useNewUrlParser: true, useFindAndModify: false},
+  );
 
 app.engine('handlebars', exphbs());
 app.set('view engine', 'handlebars');
@@ -12,6 +20,7 @@ app.set('port', (process.env.PORT || 5500));
 
 app.use(bodyParser.json());
 app.use(cors());
+app.use(passport.initialize());
 
 app.use((req, res, next) => {
     res.header("Access-Control-Allow-Origin", "*");
