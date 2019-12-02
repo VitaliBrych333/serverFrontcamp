@@ -69,3 +69,57 @@
 {"level":"info","message":"ERROR: Unexpected token } in JSON at position 24 - PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-01T17:28:58.420Z"}
 {"level":"info","message":"ERROR: HTTPStatus is not defined - PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-01T22:44:15.538Z"}
 {"level":"info","message":"ERROR: HTTPStatus is not defined - PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-01T22:46:49.092Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T10:31:16.849Z"}
+{"level":"info","message":"ERROR: userDB is not defined - GET: URL - /news","timestamp":"2019-12-02T10:44:24.239Z"}
+{"level":"info","message":"ERROR: userDB is not defined - PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T10:44:41.009Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T10:46:58.787Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T10:47:03.472Z"}
+{"level":"info","message":"ERROR: user is not defined - POST: URL - /authorization","timestamp":"2019-12-02T10:50:27.974Z"}
+{"level":"info","message":"ERROR: user is not defined - POST: URL - /authorization","timestamp":"2019-12-02T10:54:09.696Z"}
+{"level":"info","message":"ERROR: user is not defined - POST: URL - /authorization","timestamp":"2019-12-02T10:55:56.735Z"}
+{"level":"info","message":"ERROR: user is not defined - POST: URL - /authorization","timestamp":"2019-12-02T10:56:40.554Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T10:58:08.982Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T11:01:15.120Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T11:02:15.409Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T11:03:01.891Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T11:04:24.777Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T11:04:30.593Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T11:07:47.034Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T11:11:07.452Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T11:14:00.947Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T11:14:44.500Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T11:19:25.054Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T11:25:14.380Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T11:25:34.452Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T11:29:35.897Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T11:32:45.166Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T11:34:07.438Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T11:35:07.571Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T11:35:57.078Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T19:32:01.113Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T19:32:41.853Z"}
+{"level":"info","message":"ERROR: Cannot set headers after they are sent to the client - PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T19:50:19.233Z"}
+{"level":"info","message":"ERROR: Cannot set headers after they are sent to the client - PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T19:50:54.550Z"}
+{"level":"info","message":"ERROR: Cannot set headers after they are sent to the client - PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T19:51:33.477Z"}
+{"level":"info","message":"ERROR: Cannot set headers after they are sent to the client - PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T19:51:51.447Z"}
+{"level":"info","message":"ERROR: Cannot set headers after they are sent to the client - PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T19:53:23.680Z"}
+{"level":"info","message":"POST: URL - /","timestamp":"2019-12-02T20:04:00.407Z"}
+{"level":"info","message":"POST: URL - /","timestamp":"2019-12-02T20:04:14.345Z"}
+{"level":"info","message":"POST: URL - /","timestamp":"2019-12-02T20:04:44.855Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T20:04:44.977Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T20:04:51.450Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T20:05:09.618Z"}
+{"level":"info","message":"DELETE: URL - /news/5c40662730b98800044fb641","timestamp":"2019-12-02T20:05:37.951Z"}
+{"level":"info","message":"POST: URL - /news/","timestamp":"2019-12-02T20:06:38.946Z"}
+{"level":"info","message":"GET: URL - /logout","timestamp":"2019-12-02T20:06:59.304Z"}
+{"level":"info","message":"POST: URL - /","timestamp":"2019-12-02T20:09:39.837Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T20:09:39.953Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb649","timestamp":"2019-12-02T20:09:48.313Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb646","timestamp":"2019-12-02T20:10:32.372Z"}
+{"level":"info","message":"PUT: URL - /news/5c40662730b98800044fb646","timestamp":"2019-12-02T20:11:01.054Z"}
+{"level":"info","message":"PUT: URL - /news/5de56ece348b7836a0b23d16","timestamp":"2019-12-02T20:11:27.485Z"}
+{"level":"info","message":"GET: URL - /logout","timestamp":"2019-12-02T20:23:09.579Z"}
+{"level":"info","message":"POST: URL - /","timestamp":"2019-12-02T20:23:46.607Z"}
+{"level":"info","message":"GET: URL - /news","timestamp":"2019-12-02T20:23:46.726Z"}
+{"level":"info","message":"POST: URL - /news","timestamp":"2019-12-02T20:24:24.876Z"}
+{"level":"info","message":"DELETE: URL - /news/5de572f801e0077afcfc0fed","timestamp":"2019-12-02T20:25:15.995Z"}
