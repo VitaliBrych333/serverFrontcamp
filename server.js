@@ -5,6 +5,7 @@ const exphbs  = require('express-handlebars');
 const logger = require('./logger/logger');
 const authorizRouter = require('./routers/authoriz-router');
 const registrRouter = require('./routers/registr-router');
+const authRouter = require('./routers/auth-router');
 const router = require('./routers/router');
 const passport = require('passport');
 const app = express();
@@ -47,6 +48,7 @@ app.use((req, res, next) => {
     next();
 });
 
+app.use('/auth', authRouter);
 app.use('/registration', registrRouter);
 app.use('/authorization', authorizRouter);
 app.use('/', router);
