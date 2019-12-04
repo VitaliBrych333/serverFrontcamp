@@ -7,9 +7,6 @@
 # Only exists if Bazel was run
 /bazel-out
 
-# folder
-/facebook-config
-
 # dependencies
 /node_modules
 
